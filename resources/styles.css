@@ -220,13 +220,13 @@ nav a:hover {
 
 #my-website h2 {
     margin: 20px 0;
-    font-family: "QuotesScript-Regular";
-    color: #77cdff;
+    font-family: "Sarina";
+    color: #21a9f8;
     text-align: center;
     font-size: 4.1rem;
     letter-spacing: .3rem;
-    text-shadow: 5px 5px 1px rgb(49, 49, 49);
-    -webkit-text-stroke: .1px rgb(253, 107, 209);
+    text-shadow: 7px 7px 1px rgb(49, 49, 49);
+    -webkit-text-stroke: 1px rgb(253, 107, 209);
 }
 
 .websites {
@@ -247,7 +247,7 @@ nav a:hover {
     margin: 0 50px 40px 50px;
     padding-top: 20px;
     color: rgb(255, 255, 255);
-    background-image: url("miami-background-web.jpg");
+    background-image: url("./miami-background-web.jpg");
 }
 
 .web::before {
